@@ -1,4 +1,4 @@
-import Avatar from "../img/keila-eua.jpg";
+import Avatar from "./img/keila-eua.jpg";
 
 import SocialNetwork from "./SocialNetwork.jsx";
 import "../styles/components/sidebar.sass";
