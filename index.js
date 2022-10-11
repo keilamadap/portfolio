@@ -9260,7 +9260,7 @@ const Vd = [
       id: "main-content",
       children: [N(Od, {}), N(Bd, {}), N(Dd, {})],
     }),
-  Wd = "/src/img/keila-eua.jpg";
+  Wd = "keila-eua.jpg";
 function Qd(e) {
   return $e({
     tag: "svg",
